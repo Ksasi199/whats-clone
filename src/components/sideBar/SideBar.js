@@ -20,7 +20,7 @@ const SideBar = () => {
 
         <ChatDetail
           image="https://images.pexels.com/photos/3757141/pexels-photo-3757141.jpeg?cs=srgb&dl=pexels-alex-azabache-3757141.jpg&fm=jpg"
-          title="User 2"
+          title="Ksasi"
           subTitle="Hello how are you blah blah blah blah blah blah blah blah..."
           time="02/09/2020"
           notifications={0}
